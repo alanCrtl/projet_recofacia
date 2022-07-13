@@ -6,11 +6,15 @@
 
 **->version terminale:**
 
-```java -jar Executable.jar```
+```
+java -jar Executable.jar
+```
 
 **->version interface:**
 
-```java -jar --module-path /home/cytech/ing1/Java/javafx-sdk-18/lib --add-modules javafx.controls,javafx.fxml InterfaceRecoFac.jar```
+```
+java -jar --module-path /home/cytech/ing1/Java/javafx-sdk-18/lib --add-modules javafx.controls,javafx.fxml InterfaceRecoFac.jar
+```
 
 **!!! ATTENTION, il faut changer "/home/cytech/ing1/Java/" par le chemin qui correspond à l'emplacement de votre librairie javafx**
 
