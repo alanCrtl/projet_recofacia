@@ -8,6 +8,7 @@ import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class CSVinteract {
 	public static void writeStrVecToFile(String[] vec, String appelation) {
 		int row = vec.length;
